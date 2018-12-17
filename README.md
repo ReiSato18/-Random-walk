@@ -1,1 +1,2 @@
-# Random walk on Menger sponge to determine its spectral dimension.
+#README.md
+Random walk on Menger sponge to determine its spectral dimension.
