@@ -29,8 +29,5 @@ function random_walk(loop)
     end
     gif(anim,fps=20)
     
-    #return psi #2Dplot
-    #return mark_prob
-
 end
 random_walk(200)
